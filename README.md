@@ -1,0 +1,1 @@
+This is a project from one of the lessons from "The Odin Project". It is supposed to test me on my knowledge on flexbox, as well as the basics of html and css.
